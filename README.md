@@ -7,5 +7,5 @@ A short 10 question quiz on airport codes from cities around the U.S. This proje
 Learning objectives included:
 
 * reintroduction to React and utilization of hooks
-* constructing a streamlined user input
+* streamlining the cursor control for user input
 * exploration of css animation
